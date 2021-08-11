@@ -4,7 +4,7 @@ public class Board {
 	
 	private int rows;
 	private int columns;
-	//matriz de peças do tabuleiro
+	//matrix de peças do tabuleiro
 	private Piece[][] pieces;
 
 	public Board(int rows, int columns) {
