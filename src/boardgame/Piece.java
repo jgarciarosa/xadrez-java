@@ -14,5 +14,11 @@ public class Piece {
 	protected Board getBoard() {
 		return board;
 	}
+	
+	//public boolean[][] possibleMoves();
+		
+	//public boolean possibleMove(Position position) {
+		//return possibleMoves()[position.getRow()][position.getColumn()];
+	//}
 
 }
